@@ -1,5 +1,28 @@
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/muhtalipdede/)](https://www.linkedin.com/in/muhtalipdede/)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@muhtalipdede)](https://medium.com/@muhtalipdede)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/muhtalipdede5)](https://www.instagram.com/muhtalipdede5)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=http://twitter.com/muhtalipdede)](http://twitter.com/muhtalipdede)
-<a href="https://www.buymeacoffee.com/muhtalipdede" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<div align="center">
+
+  <h1>Hi 👋, I'm <a href="https://muhtalip.com">Muhtalip<a></h1>
+  <h3>I'm a Software Developer from Istanbul, Turkey &#127481;&#127479;</h3>
+  
+    
+  <h4>I am currently working as a Founding Engineer at <a href="https://datapad.io">Datapad<a></h4>
+  <h4>I graduated from Department of Mathematical Engineering, Yıldız Technical University in 2018.</h4>
+
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=muhtalipdede&theme=great-gatsby)](https://git.io/streak-stats)
+
+  <h3>You can contact me with my social media accounts</h3>
+  
+  [<img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" alt="drawing" width="60"/>](https://www.linkedin.com/in/muhtalipdede/)
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Black_Instagram_icon.svg/1200px-Black_Instagram_icon.svg.png" alt="drawing" width="60"/>](https://www.instagram.com/muhtalipdede5)
+  [<img src="https://cdn-icons-png.flaticon.com/512/60/60580.png" alt="drawing" width="60"/>](https://twitter.com/muhtalipdede)
+  
+  <h3>You can discover my articles</h3>
+  
+  [<img src="http://cdn.onlinewebfonts.com/svg/img_256332.png" alt="drawing" width="60"/>](https://medium.com/@muhtalipdede)
+
+  <h3>If you want to buy me a coffee 👇</h3>
+  
+  [<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/buymeacoffee-512.png" alt="drawing" width="60"/>](https://www.buymeacoffee.com/muhtalipdede)
+  
+  <h3>Keep in touch 😉</h3>
+  
+</div>
