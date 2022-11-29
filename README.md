@@ -3,8 +3,6 @@
   <h1>Hi 👋, I'm <a href="https://muhtalip.com">Muhtalip<a></h1>
   <h3>I'm a Software Developer from Istanbul, Turkey &#127481;&#127479;</h3>
   
-    
-  <h4>I am currently working as a Founding Engineer at <a href="https://datapad.io">Datapad<a></h4>
   <h4>I graduated from Department of Mathematical Engineering, Yıldız Technical University in 2018.</h4>
 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=muhtalipdede&theme=great-gatsby)](https://git.io/streak-stats)
