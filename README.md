@@ -9,8 +9,8 @@
 
   <h3>NPM Packages</h3>
 
-  [![im-cryption](https://img.shields.io/npm/dt/im-cryption.svg)](https://img.shields.io/npm/dt/im-cryption.svg)
-  [![@muhtalipdede/rn-generator](https://img.shields.io/npm/dt/@muhtalipdede/rn-generator.svg)](https://img.shields.io/npm/dt/@muhtalipdede/rn-generator.svg)
+  [![im-cryption](https://img.shields.io/npm/dt/im-cryption.svg)](https://www.npmjs.com/package/im-cryption)
+  [![@muhtalipdede/rn-generator](https://img.shields.io/npm/dt/@muhtalipdede/rn-generator.svg)](https://www.npmjs.com/package/@muhtalipdede/rn-generator)
 
     
   [<img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" alt="drawing" width="60"/>](https://www.linkedin.com/in/muhtalipdede/)
