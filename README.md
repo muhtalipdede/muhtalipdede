@@ -5,7 +5,9 @@
   
   <h4>I graduated from Department of Mathematical Engineering, Yıldız Technical University in 2018.</h4>
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=muhtalipdede&theme=great-gatsby)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=muhtalipdede&theme=great-gatsby)](https://streak-stats.demolab.com/?user=muhtalipdede&theme=great-gatsby)
+
+  [![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=muhtalipdede&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=muhtalipdede&layout=compact)
 
   <h3>NPM Packages</h3>
 
