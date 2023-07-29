@@ -1,18 +1,33 @@
-<div align="center">
+<div>
 
   <h1>Hi 👋, I'm <a href="https://muhtalipdede.github.io/about">Muhtalip<a></h1>
   <h3>I'm a Software Developer from Istanbul, Turkey &#127481;&#127479;</h3>
   
-  <h4>I graduated from Department of Mathematical Engineering, Yıldız Technical University in 2018.</h4>
+  <p>
+Hello! I am Muhtalip, born in Istanbul, Turkey, in 1995. After completing my primary and high school education in Turkey, I was accepted to Yıldız Technical University to study Mathematics Engineering.
+
+Since my childhood, I have had a keen interest in Mathematics and Computers, dreaming of becoming either a mathematician or a software developer. During my university years, my passion for pure mathematics and software development grew as I focused on related courses.
+
+In my final year, I collaborated with a friend and our advisor professor to develop an IoT project. Utilizing Raspberry Pi and sensors, we collected data and stored it in a remote server database using an API. We then worked on machine learning algorithms with this data and created a mobile application for users to monitor the collected information.
+
+Following my internship experience, I started working part-time as a software developer at Doğuş Teknoloji. During this period, I had the opportunity to work with technologies like C#, VueJS, PugJS, TypeScript, and MSSQL, and gain experience in microservices architecture and domain-driven design.
+
+After graduation, I continued my career at Doğuş Teknoloji, focusing on the Financial Software team and software architecture. I also got involved in DevOps processes and gained experience with Kubernetes.
+
+Within the organization, we initiated two entrepreneurial projects. The first was a system and mobile application for pet health records, and the second was an AI-based project focused on sustainable food waste separation.
+
+Following these experiences, I joined Datapad as a Founding Engineer, where I had the opportunity to experience the startup journey for a year. Currently, I am a Senior Software Developer at Berkut Teknoloji.
+
+Throughout my career, I have enjoyed software development as both a profession and a hobby. I believe building something from scratch teaches valuable lessons, and I have embraced my entrepreneurial spirit. Continuously learning through mistakes and bug fixes has been my growth mantra.
+
+Feel free to contact me if you have any questions related to mathematics or software development. I wish you joy and success in your coding adventures!
+    
+  </p>
 
   <br />
   <h3>Github Pages</h3>
   
   https://muhtalipdede.github.io
-
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=muhtalipdede&theme=great-gatsby)](https://streak-stats.demolab.com/?user=muhtalipdede&theme=great-gatsby)
-
-  [![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=muhtalipdede&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=muhtalipdede&layout=compact)
 
   <h3>NPM Packages</h3>
 
@@ -23,12 +38,14 @@
 
   [<img src="./images/get2gether.png" alt="Get Together" width="60"/>](https://github.com/get2gether-app)
 
-    
-  [<img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" alt="Linkedin" width="60"/>](https://www.linkedin.com/in/muhtalipdede/)
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Black_Instagram_icon.svg/1200px-Black_Instagram_icon.svg.png" alt="Instagram" width="60"/>](https://www.instagram.com/muhtalipdede5)
-  [<img src="https://cdn-icons-png.flaticon.com/512/60/60580.png" alt="Twitter" width="60"/>](https://twitter.com/muhtalipdede)
-  [<img src="http://cdn.onlinewebfonts.com/svg/img_256332.png" alt="Medium" width="60"/>](https://medium.com/@muhtalipdede)
-  [<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/buymeacoffee-512.png" alt="Buy me coffee" width="60"/>](https://www.buymeacoffee.com/muhtalipdede)
+  <h3>Social Media</h3>
+  https://www.linkedin.com/in/muhtalipdede/
+  <br />
+  https://www.instagram.com/muhtalipdede5
+  <br />
+  https://twitter.com/muhtalipdede
+  <br />
+  https://medium.com/@muhtalipdede
   
   <h3>Keep in touch 😉</h3>
   
