@@ -5,7 +5,6 @@
   
   <p>
 
-[![An image of @muhtalipdede's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muhtalipdede)](https://holopin.io/@muhtalipdede)
 Hello! I am Muhtalip, born in Istanbul, Turkey, in 1995. After completing my primary and high school education in Turkey, I was accepted to Yıldız Technical University to study Mathematics Engineering.
 
 Since my childhood, I have had a keen interest in Mathematics and Computers, dreaming of becoming either a mathematician or a software developer. During my university years, my passion for pure mathematics and software development grew as I focused on related courses.
@@ -36,6 +35,7 @@ Feel free to contact me if you have any questions related to mathematics or soft
 
   <h3>NPM Packages</h3>
 
+  [![avrasya](https://img.shields.io/npm/dt/avrasya.svg)](https://www.npmjs.com/package/avrasya)
   [![im-cryption](https://img.shields.io/npm/dt/im-cryption.svg)](https://www.npmjs.com/package/im-cryption)
   [![@muhtalipdede/rn-generator](https://img.shields.io/npm/dt/@muhtalipdede/rn-generator.svg)](https://www.npmjs.com/package/@muhtalipdede/rn-generator)
 
