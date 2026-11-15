@@ -13,6 +13,7 @@ Mathematical Engineering graduate (Honors) from Yıldız Technical University. C
 ## Currently
 
 - Building **WingieOne**, Wingie Enuygun Group’s B2B travel platform
+- Building **[Coppergate](https://github.com/coppergateai/coppergate)** — autonomous multi-agent Survivor arena ([coppergate.ai](https://coppergate.ai))
 - Developing **[kprompt](https://github.com/kprompt/kprompt)** — an open-source AI Kubernetes CLI ([kprompt.ai](https://kprompt.ai))
 - Researching diffusion models for low-light image enhancement (MSc thesis)
 
@@ -62,6 +63,32 @@ Wingie Enuygun Group’s B2B platform for travel partners and agency workflows.
 
 ## Open Source
 
+### [Coppergate](https://github.com/coppergateai/coppergate) — Autonomous Multi-Agent Arena
+
+[![Stars](https://img.shields.io/github/stars/coppergateai/coppergate?style=flat&logo=github)](https://github.com/coppergateai/coppergate/stargazers)
+[![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/coppergateai/coppergate/blob/main/LICENSE)
+
+Agents compete inside a **Survivor arena**; fitness (tests, CI, critic, policy, budget) decides who ships. You set the goal, the policy, and the kill-switch.
+
+[coppergate.ai](https://coppergate.ai) · [Org](https://github.com/coppergateai)
+
+| Capability | What it does |
+|------------|--------------|
+| **Compete** | Multiple contenders work the same outcome in parallel |
+| **Select** | Fitness evidence promotes winners; losers lose budget |
+| **Ship** | Survivors move forward; production stays policy-gated |
+| **Wedge** | GitHub-native fitness — issue → verified PR (CI + cost + Accept) |
+| **Self-host** | MIT, Docker Compose, bring your own keys |
+
+```bash
+git clone https://github.com/coppergateai/coppergate.git
+cd coppergate
+cp .env.selfhost.example .env.selfhost
+docker compose -f docker-compose.selfhost.yml --env-file .env.selfhost up -d --build
+```
+
+---
+
 ### [kprompt](https://github.com/kprompt/kprompt) — AI Kubernetes CLI
 
 [![Release](https://img.shields.io/github/v/release/kprompt/kprompt?logo=github)](https://github.com/kprompt/kprompt/releases/latest)
@@ -93,6 +120,19 @@ Offline walkthrough (kind + deliberate failures, no API key): [kprompt-examples]
 
 ---
 
+## Apps
+
+Independent iOS & Android apps — local-first, no ads, no account required.
+
+| App | Platforms |
+|-----|-----------|
+| **[Don't Blink](https://apps.apple.com/app/dont-blink-tap-dont-tap/id6805209467)** — tap / don't tap reaction game | [App Store](https://apps.apple.com/app/dont-blink-tap-dont-tap/id6805209467) · [Google Play](https://play.google.com/store/apps/details?id=com.muhtalipdede.dontblink) |
+| **[Swipe Merge Colors](https://apps.apple.com/app/swipe-merge-colors/id6806599894)** — color merge puzzle, no numbers | [App Store](https://apps.apple.com/app/swipe-merge-colors/id6806599894) · [Google Play](https://play.google.com/store/apps/details?id=com.muhtalipdede.mergecolors) |
+
+Developer pages: [App Store](https://apps.apple.com/developer/muhtalip-dede/id1583166446) · [Google Play](https://play.google.com/store/apps/dev?id=6862159926694466208) · [Portfolio apps](https://muhtalipdede.github.io/apps)
+
+---
+
 ## Academic & Innovation
 
 - **ISIF 2020 Gold Medal** — thermal sensor–based healthtech innovation
@@ -104,16 +144,22 @@ Offline walkthrough (kind + deliberate failures, no API key): [kprompt-examples]
 
 ## Community
 
-Co-founder of **[The Coderverse](https://thecoderverse.com/)** — live coding on YouTube, open-source collaboration, and tech talks for Turkish developers.
+Co-founder of **[The Coderverse](https://thecoderverse.com/)** — live coding on [YouTube](https://www.youtube.com/@thecoderverse), open-source collaboration, and tech talks for Turkish developers.
 
 ---
 
 ## Contact
 
+- [Portfolio](https://muhtalipdede.github.io)
 - [GitHub](https://github.com/muhtalipdede)
 - [LinkedIn](https://www.linkedin.com/in/muhtalipdede/)
-- [kprompt.ai](https://kprompt.ai)
-- [The Coderverse](https://thecoderverse.com/)
+- [X](https://x.com/muhtalipdede)
+- [Medium](https://muhtalipdede.medium.com/)
+- [App Store](https://apps.apple.com/developer/muhtalip-dede/id1583166446)
+- [Google Play](https://play.google.com/store/apps/dev?id=6862159926694466208)
+- [coppergate.ai](https://coppergate.ai) · [Org](https://github.com/coppergateai)
+- [kprompt.ai](https://kprompt.ai) · [Org](https://github.com/kprompt)
+- [The Coderverse](https://thecoderverse.com/) · [YouTube](https://www.youtube.com/@thecoderverse)
 - [Repositories](https://github.com/muhtalipdede?tab=repositories)
 
 ---
