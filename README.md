@@ -122,12 +122,14 @@ Offline walkthrough (kind + deliberate failures, no API key): [kprompt-examples]
 
 ## Apps
 
-Independent iOS & Android apps — local-first, no ads, no account required.
+Independent iOS & Android apps.
 
 | App | Platforms |
 |-----|-----------|
 | **[Don't Blink](https://apps.apple.com/app/dont-blink-tap-dont-tap/id6805209467)** — tap / don't tap reaction game | [App Store](https://apps.apple.com/app/dont-blink-tap-dont-tap/id6805209467) · [Google Play](https://play.google.com/store/apps/details?id=com.muhtalipdede.dontblink) |
 | **[Swipe Merge Colors](https://apps.apple.com/app/swipe-merge-colors/id6806599894)** — color merge puzzle, no numbers | [App Store](https://apps.apple.com/app/swipe-merge-colors/id6806599894) · [Google Play](https://play.google.com/store/apps/details?id=com.muhtalipdede.mergecolors) |
+| **[Cargo Jam](https://play.google.com/store/apps/details?id=com.muhtalipdede.cargojam)** — logistics truck puzzle | [Google Play](https://play.google.com/store/apps/details?id=com.muhtalipdede.cargojam) |
+| **[Walk](https://play.google.com/store/apps/details?id=com.muhtalipdede.walk)** — pedometer, streaks, and journeys | [Google Play](https://play.google.com/store/apps/details?id=com.muhtalipdede.walk) |
 
 Developer pages: [App Store](https://apps.apple.com/developer/muhtalip-dede/id1583166446) · [Google Play](https://play.google.com/store/apps/dev?id=6862159926694466208) · [Portfolio apps](https://muhtalipdede.github.io/apps)
 
